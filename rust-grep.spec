@@ -5,8 +5,8 @@
 %global crate grep
 
 Name:           rust-%{crate}
-Version:        0.2.4
-Release:        5%{?dist}
+Version:        0.4.1
+Release:        1%{?dist}
 Summary:        Fast line oriented regex searching as a library
 
 # Upstream license specification: Unlicense/MIT
